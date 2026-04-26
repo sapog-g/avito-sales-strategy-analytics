@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+shap
+plotly
+category_encoders
+ipywidgets
